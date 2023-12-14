@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703626684595",
+    "project_id": "ekstra-534ac",
+    "storage_bucket": "ekstra-534ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703626684595:android:8e551632c32a7aefd168c6",
+        "android_client_info": {
+          "package_name": "com.example.simple_social_media_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGm_sAzwhUqS4umwHqlwfl1usKjevH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
